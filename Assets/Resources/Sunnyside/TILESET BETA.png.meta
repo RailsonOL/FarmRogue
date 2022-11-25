@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,7 +103,7252 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TILESET BETA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79db3a21fe9ad241b643bb1ae24526f
+      internalID: 1840141253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1240
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd6c529a9ebb54fb06a0b68e39e127
+      internalID: 774988213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1152
+        width: 136
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a90fc50b44384a96262e072fe8f38
+      internalID: -1468303642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1267
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb63e6d36c9c0c4ab37da9fc5780c28
+      internalID: 957460357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1243
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c7049071c796498d6c5b864540edb
+      internalID: 1617864215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1243
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5839e52f8df125e4a979cec81454496a
+      internalID: 1650779282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1243
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18913dc422737864b9210b57fa40391d
+      internalID: -1392163145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1243
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae217e9fd8f0c49802d66749fbf5dd
+      internalID: 1094920049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1246
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f8503f310b95848a02e08be5ced00c
+      internalID: -1753846374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_9
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1251
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79a5fa89b41ee14191877b1706c316f
+      internalID: -582122367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1250
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7030a4ea370334788ecabb2e6d4128
+      internalID: -1674474291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94998be6af20cf24885e771f1021a15f
+      internalID: -1479326322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1224
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f49ad8cff30424684a879e32b76a50
+      internalID: -728143813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_13
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1245
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea5c78baad6054bac7ad1b61579a62
+      internalID: -45442452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1185
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5ae40190dabd848bbf2bce2d03ecf4
+      internalID: -41371129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_15
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1245
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3968231f4408428aaea2ffdce4a69
+      internalID: -459894214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_16
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfd9fbbf1fc1e646a7c2f311b01bc83
+      internalID: -772296373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_17
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1240
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17847cb5e335799429637bbbdfcf7319
+      internalID: -1725893428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1227
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3b021cdeef567408b9c56645b79c73
+      internalID: -112463698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_19
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1220
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f481310870cf946b45033d835a89c7
+      internalID: 1366047274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_20
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1096
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a27f8a1c83243644bdae9256a99d9b1
+      internalID: 1856964558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1245
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8367ab8036d9d744b8dd8a54144d0ec4
+      internalID: -1858791771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1200
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a874979373bc0b4b95008a040725362
+      internalID: -1737211394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb4bfe934ffd041a29bf64865d9767
+      internalID: -521904339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83dae6584cd38d47ae0fbdd452e312f
+      internalID: 1872736537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ce982f3e519c40abb3db46b8e231c
+      internalID: -289344261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_26
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1231
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6a6412d05181478774345467774ea
+      internalID: 594621695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_27
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1230
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cdbf43888406c4294183b6117ce45b
+      internalID: -932729695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_28
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1227
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11b41f92444094090782bc585ff44f
+      internalID: -1620254655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_29
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1163
+        width: 9
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6b2a5ccb01a7488b1018c30ecb85f
+      internalID: -495086819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1180
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9052fd33898d9241a84287bd7696eea
+      internalID: 1401630784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f184106bbc800a41a39b6e5763d85b8
+      internalID: 1767656158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_32
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9804bb10ee74094a99bbcd42a97bed2
+      internalID: 72733932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_33
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7b3b3201631fd4bb3cb91c24b5aa9e
+      internalID: -301313001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_34
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1224
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f242ee06333b8704e9055a62facaf6b0
+      internalID: -654005735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1207
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff56b50d9037148999787d5604cc08
+      internalID: 1425510673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14834319b7a0224f9edb62f4f44a143
+      internalID: -1997304695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a2dc008733c14d9b42de5745cf35e
+      internalID: -1376215141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_38
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1207
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64325f220db13cf43b2ca2829e2d6d1c
+      internalID: 943556248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1205
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ede24a849ed03418243af5d1568db7
+      internalID: -1515083316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_40
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81349a7be3797cd4e9f65979f0c28975
+      internalID: 110047647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496e8b70535b5d84185fe2aea4babfa4
+      internalID: 669310086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_42
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1206
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41ff5ddb7cd5f743b62c75f1063bd8d
+      internalID: -860386721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e2070cf0390b7459a6ed672276f4b4
+      internalID: -24141224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_44
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1185
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8981fa7a663871e46a4afdbb93192d9a
+      internalID: 1965299289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_45
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f81c99e5761a747b8a28defeafc73f
+      internalID: -741109149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_46
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1187
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61651d91061809438d5ed6717d7f872
+      internalID: 1852470302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1203
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfae247bbd0bd52468a4f07700e26105
+      internalID: -1977628694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_48
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1203
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93090ec1f36130246aadfcbc7df9be19
+      internalID: 651370611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_49
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1160
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae09f12f5c7df4faf2576d599b85bc
+      internalID: 578409037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1149
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b681b67927b3bc47948985b3a5885fd
+      internalID: -2054560674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_51
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1187
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d141013cbef20b429a9d4007345c075
+      internalID: -1628505212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_52
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1187
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5327d36da6f3504e812fed8a11e8df1
+      internalID: -1952787374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_53
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1187
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59f1afec8656904e9ee89833b725e9a
+      internalID: -1604924523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_54
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1187
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4d4954b650414ba8c2a6187140b84
+      internalID: 1199952411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_55
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1186
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae6fadd0d93be349824332931511211
+      internalID: -1191212114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1186
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c37e65055ae7498615b0b8006b7cd
+      internalID: -133097786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_57
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1185
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2886c53c5fb89c41a85716a0a0324b5
+      internalID: -2059394585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1190
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f2bc0d322e574ea79656d8b7e7043
+      internalID: 112851285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1188
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b5ee1663a01442a7a26473b06d56e
+      internalID: -569853845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_60
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1187
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c79e925c49a8e49a4d18587fb3e3f1
+      internalID: -1084194870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1180
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f003ffc9ddd242b2ba911c8f34ae2
+      internalID: -1752689477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_62
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1160
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c570ac7487de24b4c9dc48fd3dbfaa88
+      internalID: -1048936789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_63
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1160
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b3ab1933223cc40812d78efcbdeba4
+      internalID: -219056816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_64
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1160
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65937dfc403bbba4b8176535c5b25576
+      internalID: -1449903975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_65
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1163
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1d053efa8bd1499806b8052f0cf37
+      internalID: 133971029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_66
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1149
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab7c747c63505479cf801862698d71
+      internalID: 368044036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_67
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1117
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a11fe352f7ee418b57767e8d9becd
+      internalID: -34697852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_68
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f5244b1eb43f4a8cdfdcd7e356192
+      internalID: -141788633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_69
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1147
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106c6481e8481a47b53bc9e002c02be
+      internalID: 1813678236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_70
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1116
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664f44f3858e66449b906c36fdc53f1
+      internalID: 11939488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 960
+        width: 420
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a772f652982e43917673aab21e43b
+      internalID: 390322188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_72
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1100
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ed81134a4dfa4d884c09ff5545572
+      internalID: -882848807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_73
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1117
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0377b4c15f1c847aa2ef001d7206b9
+      internalID: 1684512985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_74
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1100
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70beb3f731a6a74c9e5c63350c4560b
+      internalID: 912958727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_75
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1120
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b4c5cfc47fd664786ffb30b93e1094
+      internalID: 667622904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_76
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1dab85f2fae5d4a80ac29faa4f9239
+      internalID: 1930609756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_77
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1111
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe8223196438ce4fb04a25d48712b6b
+      internalID: 2120143721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_78
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1104
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae1fb73945e714cb6ea00a628a12dd
+      internalID: 596698099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_79
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1104
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d1b15b14248f545bd140499077c412
+      internalID: -840966365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 960
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcfa64b7e420ec4f95d1079a045f723
+      internalID: -322002504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_81
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1060
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade999c27fc4a8f48a440fa6f298fcc0
+      internalID: 579834458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_82
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1054
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c85aca73e1a44d9d5c063cd8ada19
+      internalID: -708340212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1063
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057e9c795071a945b4796dba6d81eee
+      internalID: -124670144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_84
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1065
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50dc647ff1827c45b9194b7896715c7
+      internalID: 1425368777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_85
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1065
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98d5507c026904eb9a4ffe33a1c0e4
+      internalID: -788927120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_86
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1064
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217301573870b43478c351d92bd8c885
+      internalID: -391439464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_87
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1064
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c4e5c3e1ede7438422107c045b5ba
+      internalID: -1334812514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_88
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1064
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ea125f30e6ffa479cc03c5273178f2
+      internalID: -1114475651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_89
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1063
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f743583192a3994bb17733d5203cb0b
+      internalID: 123876478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_90
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1060
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384dec62626896d44b5b3e8ce06d1f2f
+      internalID: -1407063701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_91
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1060
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ea0ab3810430488b7b26b7ea263da
+      internalID: -77009220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_92
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1063
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005bba572474e614dbd71e398722c7a0
+      internalID: -1816557245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_93
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1065
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d62b31c485bec49aa36489b0fd720f
+      internalID: -220310131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_94
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1064
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d8578352dea64aa701c364607fe62
+      internalID: 1955304121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_95
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724aa46bb88c2044cae32bb2bb23f6f2
+      internalID: 1494002007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_96
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1063
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7d29372c0eba4db928cacf7cd6999
+      internalID: -1325811274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_97
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1064
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10689988a7080c4eb1ad7ac752aa945
+      internalID: -572295531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_98
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1066
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342dd459cdf98764dadae1660d4771f2
+      internalID: -93051526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_99
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1066
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b28697f3a5ce1a42a2aa2276839f1a9
+      internalID: 777507428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_100
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1009
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ba58c99fa1664b85ecdf06089ec2b
+      internalID: -2134120838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_101
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1015
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7644ae78f8e247bd21b5c25b85f8a
+      internalID: -484058241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_102
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1045
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b180e03762be4f4bb44b9f8d0ae4ab9
+      internalID: 1851268896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_103
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1045
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e2e0e24d55c746ab5f6bc4b843ad0
+      internalID: 1886955490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_104
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1044
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778fb907a26c6c142918b6bd3bc89e5e
+      internalID: -2042105088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_105
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1046
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9c5912a707e54aac0dbc036b0eedd
+      internalID: -1094857937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_106
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1047
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dabd78d7bf4a3f408cc0e72ef376e75
+      internalID: 550195291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_107
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1046
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f869cc82f03f924cb3eda7cf675aed4
+      internalID: 643034628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_108
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1046
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb63d5ec79abc294a810f9cde29ffc00
+      internalID: -1440842136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_109
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1047
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dc07ee05bd8ea459fb10c05bfba9dc
+      internalID: 1277097282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_110
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1046
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f447f4ab22118b46924f2581ebbfaa0
+      internalID: -1593168390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_111
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1047
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd0fd15872f8384a900740c53798e93
+      internalID: -346690991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_112
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1047
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857ad01d2928384cbb1a8223042bf91
+      internalID: -366466983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_113
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1047
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ecc64e18bc6d45ba6e46388838477
+      internalID: -215916592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_114
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1047
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f013f5821cbfc418c0da11ad653a11
+      internalID: -654279150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_115
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1047
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550de05d1102b14aa3b3405d2a31134
+      internalID: 654080989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_116
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 980
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923b24ad64aa7d44184452949f59d9f4
+      internalID: 197595335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_117
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1020
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edc5bca11d549d4bb588e18c8e3ef91
+      internalID: -994194877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_118
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1026
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e536e185e4cce4e80737d07125fbbc
+      internalID: 194505244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_119
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1024
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a76b9e5bf2b9c9428a98b82fcc9f03a
+      internalID: 2020218595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_120
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1024
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0ffc8754f96646b6ef7b97af6ca6f
+      internalID: 1015441296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_121
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1029
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547c56508396894f87e83bae7205297
+      internalID: 375046859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_122
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1029
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61880b620c1f3d84a9c4a6b8847f345d
+      internalID: 555942756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_123
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1029
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b605ea345ad2a44d83093994b1e2c9a
+      internalID: -2125601016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_124
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1029
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5721276e04602314bb63485ab4c9cabe
+      internalID: -1818343739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_125
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedbdf08c43244b4ca6bee3160245b8d
+      internalID: 1604598816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_126
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3872328d35174459a0a17cb6c80ae8
+      internalID: -1210605095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_127
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dcc6c49c792ae4e9b14738add335fe
+      internalID: 1557741062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_128
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1029
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2b78827795768409c990c18d701529
+      internalID: -1005670792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_129
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1029
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20271deff4b2e954bb7ce11aeca2afcc
+      internalID: -194901844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_130
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1029
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f22031db277f4d8fbebaa8fed8c21
+      internalID: 961425805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_131
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1029
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8274fc5adc4c86e47a4a6d65f10fde45
+      internalID: -908787471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_132
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1005
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8b4f85a977b5e438757bd74af30326
+      internalID: 1016873365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_133
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1000
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c1e6a5848ed2c4ab116892f2f9de3a
+      internalID: -438603568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_134
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1004
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f428b2076fce494193562bcb0e61438
+      internalID: 1510755372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_135
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1004
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f5de2999f73774bab67c77153617c8
+      internalID: -1459510763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_136
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1009
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc608c83e9d5d41ac8a769e2649ead
+      internalID: 1031706272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_137
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1008
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73bd7b5c668b8f4989d775e97b3e5db
+      internalID: -814100486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_138
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1008
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01373e6ac2d7d1e46bb136b4ef9f41b8
+      internalID: -964405812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_139
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1009
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eac4de268ee6cd4ea48961000a4c446
+      internalID: 983038208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_140
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1009
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf2c6a204b23d44ac5db78015eb009
+      internalID: -1239888513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_141
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1009
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd67be3fa586cc40a5f7ef1ec74c556
+      internalID: 1443078851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_142
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1009
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fcffa07bb3d8940b13af7e567d4f1b
+      internalID: 484494663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_143
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1009
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3860600c129737e48940614adc736ee3
+      internalID: 1235739411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_144
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1009
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b41c6621b07e094b891b020d2a1a4ff
+      internalID: -876381751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_145
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1007
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f496248fca6cd64e99b16a084e10539
+      internalID: -559409652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_146
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1009
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916b3eff0106ee47a12ab1898060d66
+      internalID: -1982938751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_147
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 980
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391135a4e53fe9d4db720d758c378e8b
+      internalID: -214760128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_148
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 969
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7fae3abb44363469fded89b1c48041
+      internalID: -223545422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_149
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 968
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39033e1c5d90f3b488270589a3382738
+      internalID: -1216744784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_150
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 968
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bdcc32dd1eaa440a3f18d553ee5904
+      internalID: -431295854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_151
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 969
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723030a01913ae49b459624294bb82d
+      internalID: -780930935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_152
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 968
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7255d767794ad3348b7979d89096ac32
+      internalID: -1994747011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_153
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 969
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e555a0c7c7e77a47a5fea5f018d0e7b
+      internalID: 1789414874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_154
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 967
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338da5ee9a280d44939bf2100f7dcb3
+      internalID: -1210382648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_155
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 940
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a8fcd24ecf98499f5a7aff0f7f627
+      internalID: 590519814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_156
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 965
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404ed7dfae49e7a44930e4abf9b282fc
+      internalID: -977386187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_157
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 965
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f54d5bb93351d469a9b20d55e3c42b
+      internalID: 1028491852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_158
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 965
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ecdb6e72b4ff4b906ce192c8447d4
+      internalID: 1919294751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_159
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 965
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca2c37e2cdc8744bfe8fd60c7d4398
+      internalID: -1122124930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_160
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 965
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdc3d4e7d3a0443ae59de7ebbc31cc
+      internalID: 2006928938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_161
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 960
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4243379166802f47bd9a11241d88b78
+      internalID: -36931164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_162
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 966
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6677545aa1f9d3b4499a037f62b91c41
+      internalID: -369336746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_163
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 969
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ba7878a7139b4c991df9e69cc6151
+      internalID: 1658611957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_164
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 968
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721e55cc6344b44b9a610188c37eb5a
+      internalID: 1201532576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_165
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 968
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d36ac1041c0b4439e5a31055515300
+      internalID: 1235870563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_166
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 944
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd60db15454b44d4db1dc7f348597290
+      internalID: 946771790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_167
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 900
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc6875e542ce6d4f9122eb5d4d70fea
+      internalID: -1836912825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_168
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 900
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18cde62b4d0d64db34d93b5600647d
+      internalID: 253348932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_169
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 940
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0032b36591eeb449c3b03e6c4f1be1
+      internalID: 1784985291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_170
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 924
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c859ffc1e030e49a90df9674c0dcec
+      internalID: 794362763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_171
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 925
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca672f7aaa91eb47b18a31657c30a7c
+      internalID: -29254720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_172
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 924
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b69c86d8068b148b48a11d4d88dbe5
+      internalID: -1258939883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_173
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 926
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ffe983e40cef45b08a498605001b2
+      internalID: 1503577569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_174
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 927
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3690871c4dc484f8863230f22d7d3f
+      internalID: 1328033512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_175
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 929
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3be0e4271c607459b011529a7bb391
+      internalID: -202873284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_176
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 928
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff507ee172c11246a3a07c40bf307fa
+      internalID: 1971012354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_177
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 928
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45042b7c5fdbd479ca60ed1619f9ba
+      internalID: -393679164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_178
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 928
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ab3df33ee4c2a4191ac7ea2fa246af
+      internalID: 491193707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_179
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 928
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d8c2ad784a17428c64dd02e901c67
+      internalID: 1223391262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_180
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 928
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5c940ce3d15a44ca6083db25876ae9
+      internalID: 1897174616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_181
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 928
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d8c3c42fe272847acff39145034cb4
+      internalID: -198795250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_182
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 928
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444041f8367f11042be4a3231d07d1bb
+      internalID: -989690604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_183
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 800
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d5bd52dc62434aa96dee802ce0503
+      internalID: -1845610293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_184
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 808
+        width: 40
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5562ebe363b45647b009f949c53d680
+      internalID: 581115986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_185
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 920
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90260eabb6fd41246823506cb304a9e2
+      internalID: -255141445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_186
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 905
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2f592c8aec2b34d992d6e5c4435f87
+      internalID: 1217321807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_187
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 924
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2d7bb501da3fe448e650d7ab7e1966
+      internalID: 681290267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_188
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 928
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2f7b0c6e539eb4082104a4a37b7ce6
+      internalID: 1657541751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_189
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 927
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dc8d18146d5ae4e9d103e1d86f9d42
+      internalID: 2102848236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_190
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 927
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae489042a8baf45b97cc86656cc132
+      internalID: -815158115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_191
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 880
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb629eb810048f408ff9252ad2758e9
+      internalID: 1975215095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 894
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf37d50f8f3b7b46bb199f5191968d3
+      internalID: 468931624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_193
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 900
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a758d65ffb5740861a9fc31dd2ef2
+      internalID: 289597924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_194
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 900
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcfbeabfc218c24a8b5fe480fa22681
+      internalID: 572167436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_195
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 829
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7252c4a46c6aa7641a6fabcf0aa075f7
+      internalID: 928402936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_196
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 800
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125cf37f3287ebc41a4ec677df5d383a
+      internalID: -777854634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_197
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 840
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348ac022476e084ea2d90645eebee15
+      internalID: -989145320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_198
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 847
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063c1332022cf1545b503affd30d3989
+      internalID: 1678611532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_199
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 860
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75135cd98ee150248a7fa0c1ee8056ed
+      internalID: -61468243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_200
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 847
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa472e528d0cdd47bbbdeb521f78860
+      internalID: 1259377325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_201
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 883
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f3785730d2754479bb7684d61a973d
+      internalID: -2123074703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_202
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 884
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef34ed4afa4ab48927af3ebe54fee9
+      internalID: -1658062109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_203
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 868
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a8c135cd932548bc5f7d2a611f9f9
+      internalID: -1254976780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_204
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 885
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f575aaf1fab2e47a5dfff9e4ef6ea7
+      internalID: 1638107784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_205
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 884
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe0cdd658e607409a0c2568f46fe29
+      internalID: -203815905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_206
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 884
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e87f6d08c03ce4c8a3b293a140d052
+      internalID: 1277733928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_207
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 884
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6872051ece22944a8edbd790986657
+      internalID: -1284714366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_208
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 883
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc96393caa02da44bff2e1a81fed4f4
+      internalID: 577553698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_209
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 863
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0371b52922ce2146bd5cb5f7a4ac090
+      internalID: 1367099874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_210
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 863
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e8e766b1964c4cb16fa0754ef8b90
+      internalID: 738245903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_211
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 820
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201eb22bafe1d2741a601d18570a238f
+      internalID: -83618248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 834
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e5ddc9df3ef2449305c4380bea409
+      internalID: -1109904577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_213
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 840
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5629ad0f42e294eac57842d77cf841
+      internalID: -1730448396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_214
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 840
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3abd63cbc08f94d9b9338d10d85eed
+      internalID: 2027423428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_215
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 827
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030e7b06a018fb748a3f444141c50297
+      internalID: -176955962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_216
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 825
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb37f424ab3fd84a86cdb181dd98f7a
+      internalID: -470983568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_217
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 825
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020805eaa155f74682ecb92d88bdeb0
+      internalID: 1720084583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_218
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 825
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ffeb5730923194c895c314b6e2fb01
+      internalID: 233382997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_219
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 826
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcafd629b35574478cee5c06ecf1c22
+      internalID: 1889697058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_220
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 827
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96f9f14a9e5d44d95458fdb13a6d83
+      internalID: 46214475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_221
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 827
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c236faf213aa745bedf7725e5a0791
+      internalID: 1688636986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_222
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 825
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb8254ba5d8ba4f8df4bc3979ead67
+      internalID: -65647428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_223
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 760
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01a6d406adf0543a3437830c5f1ae2
+      internalID: 918904255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 774
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be850194711fd47ba3f4b316f875f9
+      internalID: -164510206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_225
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dd727a384967646953034dc7f1e47f
+      internalID: 1812683709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_226
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fca933dec715a4f891f58808d9e151
+      internalID: 36704394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_227
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 700
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036bdd268dd3c54eb5d7d5e22838882
+      internalID: -705848610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_228
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 700
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a131c0cdecc8a5841b076a43971a714a
+      internalID: -1990497984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_229
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 700
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212136062686eb647884128edb7f09b1
+      internalID: 798708894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_230
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 700
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef277ebf059529f40967c2b6b28b5f6c
+      internalID: 1622890493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_231
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 785
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f8f00de7f77f146b5a144f9ef2c4d5
+      internalID: 1314653748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_232
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 785
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887fd517a72b5574eba01b9a69dfaaae
+      internalID: 1205433938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_233
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 785
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd13f84d7a9c34dbd3e3917127aae6
+      internalID: -297136077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_234
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 785
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff98fa9d00b86bf468215f4c9e1461ff
+      internalID: -1342063884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_235
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 640
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240062d35263e724bb2f4eb55b3c07cf
+      internalID: -2060214755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_236
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 640
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b8cae6b78ec74190f2f1f4d0f5258
+      internalID: -1014227224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_237
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 648
+        width: 40
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fa0a78f8da7994fb4cdb6b93658d53
+      internalID: -396030677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_238
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 760
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe689b02814c84bb2694883d6b9fc6
+      internalID: -1936565497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_239
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 745
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758475ae810b274ab55ed2315c9d5fc
+      internalID: 14805459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_240
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 745
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4191171ab3cf741bf7a2a28bb4564c
+      internalID: 822465393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_241
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 745
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c881dd9f03ff49bba367cb5271bad
+      internalID: -1743484406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_242
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 680
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab995e002618784d8ef10002b56f3ce
+      internalID: 1003297561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_243
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 745
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42696bf390cd15a438ba6a6b1aba6d60
+      internalID: 1991316051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_244
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 620
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782693ac5e72a524a9bddb0313707465
+      internalID: -55933635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_245
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 631
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703d94f53df088f41995c9f028adace4
+      internalID: -225346649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_246
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 600
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b881b1a76dce9ff4ca04b10d93d94109
+      internalID: -1450918356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_247
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 705
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e99914a1474a040a14089916a68cca
+      internalID: 1669075454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_248
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 705
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c269baae6c4e45a5fa4c03fe90565
+      internalID: -407414286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_249
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 705
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f71f9c6d56084c9f2a76bbd6fb5c8
+      internalID: 1741774908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_250
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 705
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4dda2e54374284ab46fbf2bb694852
+      internalID: -522037177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_251
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 653
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf824689903406548bace0c06e775a9a
+      internalID: 735692712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_252
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 670
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750b8631beb5f6345a21f54e17eafeed
+      internalID: 1961832592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_253
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 667
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da2480c841ccfa4db98b2cf71c89f7f
+      internalID: -2005904106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_254
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 665
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125c64f2653fc242be597a5f96627af
+      internalID: -1808161006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_255
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 665
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870a218b5cdec442a5a86389e3c35d2
+      internalID: -1280089658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_256
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 665
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211427ca5ddd2cc4dab63eedf95cd741
+      internalID: 448173593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_257
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 665
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b486ce57ab3e14a84479925a5a79f7
+      internalID: -507290036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_258
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 620
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b22b12e50fe4548bb07bebaed20329
+      internalID: 118874815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_259
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 620
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd446e025a50e84bb7526d99bb3d08e
+      internalID: -276692264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_260
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 620
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0cdab36d5fb2449aa96374a5587d41
+      internalID: -884133558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_261
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 620
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca733773647ba4d966f2a104c60508
+      internalID: 1349240611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_262
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 620
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c7be36671db44a9d5aaac02e32536
+      internalID: -1730286444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_263
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 623
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d749e01f78f96ba4b9de5ca1382e2063
+      internalID: -1108056902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_264
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 620
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ce86cd31fac548a08bee759d86abe
+      internalID: 1759273661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_265
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 620
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dcacb627421a243ba7b909c6f6561b
+      internalID: 413367423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_266
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 625
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb7266833ad9c4eadbe828648c1037
+      internalID: 697715735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_267
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 535
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0085f134cad614396fa1fb9692aca7
+      internalID: 94988122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_268
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 480
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a2a07da494d8b40982704d603ab174
+      internalID: -97891395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_269
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047de684111cf7d4d80f0c3fa1e3d61b
+      internalID: 215791306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_270
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 488
+        width: 40
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ed1d411b54d14b958b8f5cfc2ede4
+      internalID: -401059522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_271
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 600
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d832667e1a05e4aac1ce43efb71b8e
+      internalID: 1401575671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_272
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 580
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c1ff17dc695544a230ce79bd66efa
+      internalID: 1342517712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_273
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 590
+        width: 95
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18aad10a8989bc478690a5bb02495c5
+      internalID: -906576482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_274
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 590
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc26d50ead159c47b066c9e84d03151
+      internalID: 1737081288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_275
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 590
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de48c1f6f35714aa2f09d4daa0ee4f
+      internalID: 1491940254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_276
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 590
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd1ae4166338f44b4498bf3e01abaa
+      internalID: 1112953168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_277
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 600
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ae8c8470e463c40b56f080521a290e
+      internalID: -1578361288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_278
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 600
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b7ef066ec84b47a5b4979b1fccb1b
+      internalID: 2048505862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_279
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 604
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac286c4973d02439b5c53f9731e49d
+      internalID: 1097924759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_280
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 604
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b801d7322dc78a043946ed03cbc855c0
+      internalID: -2028414434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_281
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 520
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b261e71b647d24ab62cc9fe2e231e8
+      internalID: -290441025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_282
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 580
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1467a18be9dbe499cdf1aac1f7ccd3
+      internalID: -2011464212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_283
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 583
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ad13c8b81f7c44a891ae6269851f0
+      internalID: 683812234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_284
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 584
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c892b8104f2e5a54b9b7e7cca0b0b1d9
+      internalID: 1891636157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_285
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 584
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cccdb2664296144a9dc700892b33bb
+      internalID: -1761337602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_286
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 544
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecec24af868f4142ab9df40f74abfbc
+      internalID: 58950777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_287
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 525
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfb3b86897666b43aeb043e3150bdfc
+      internalID: 1831943804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_288
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 532
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a54a7989163844b6a56e50a987b41
+      internalID: 287403561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_289
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 537
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9aa9dbe609864898494b624a148ab
+      internalID: -2140072773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_290
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 529
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec9884a7504e941a7a177c2c6d3b47
+      internalID: 586577938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_291
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 480
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dcf8f8b66229c4fbe1b21472019b25
+      internalID: -1570919690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_292
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 500
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e434e2505ce58f479f21dac35c1797f
+      internalID: 893990925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_293
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 320
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24918d2e0dd1a524eb3ae51953c03832
+      internalID: 602301113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_294
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 320
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac8cb3a73db934aa5559ea98fcc3c9
+      internalID: 1084892823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_295
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 328
+        width: 40
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0ee093ef25684c9637766e0b7503e
+      internalID: 1641039517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_296
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 440
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae96ef0a2325304fafb24ef72b53b05
+      internalID: -685100725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_297
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 420
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa079901c76593c44a66c8a623fa65e9
+      internalID: 680168953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_298
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 360
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55685aba79244a4ca3f9d21ac598e82
+      internalID: 1356946915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_299
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 369
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7822dc88f9a7a4e9ae4b37cfd3453d
+      internalID: -361599855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_300
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 384
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe019f07e1ccb4eb40413ab6c91b92
+      internalID: -1162075389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_301
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 383
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff230b14fbfc7b40895df9a910a2114
+      internalID: -1378609285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_302
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 386
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac9830a6c32294dae7518484d24bae
+      internalID: -301494041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_303
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 386
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d223ce93827b643b53a5a2ab3f1ab6
+      internalID: -442445716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_304
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 386
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601476e89d4d394e904b70069c247e2
+      internalID: 1723919490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_305
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 368
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daaeff3e27afb048aa72f1d589f3072
+      internalID: 2098537104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_306
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 364
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f706e0c65a0ff48b9001ea468756f2
+      internalID: 1852352560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_307
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 364
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337e3dfc1cc10cb48917d3c1a9063733
+      internalID: -359906284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_308
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 363
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aceb3c543b6fa4b8cc44caef2cdba1
+      internalID: -1446809059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_309
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 366
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf8eb3c3ca867f46a69d3b16214b42d
+      internalID: -529027111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_310
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 365
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b496c969b9d7f4e89ff67081bc1555
+      internalID: 1070961995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_311
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 365
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09beacfa6cfb0243b999922d9da6548
+      internalID: 1253590286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_312
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 344
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0e79b5e829524eb9a9dbef2196f6d
+      internalID: 149749912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_313
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 344
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daa3652fe4cfbf4e9198f1b4765fb33
+      internalID: 2116949641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_314
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 340
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a5f41d2460b349b7330e4e2f02c4d
+      internalID: -1071646094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_315
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c214f79820f743a439e9f0559e488565
+      internalID: 1064297560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_316
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 343
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b84e19ddfe6ca49987f6138fd37f27
+      internalID: -1934777686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_317
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93afff3f0bb08d4e9b484add7adccda
+      internalID: -401885550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_318
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c968541786da64e98e5d1a9b776308
+      internalID: 449104609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_319
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 345
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d05b2385150f44281e4820347722cd
+      internalID: -326011933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_320
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 324
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe15defb902aca44388bcffa4976b408
+      internalID: -2052350791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_321
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 324
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74450560685c145ad64ddb626548a2
+      internalID: 676622540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_322
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 324
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63fed76050ffb74f997aadfc2805b82
+      internalID: -534127106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_323
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 324
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d8f69c7a12614d840dca3c67171cb
+      internalID: -1025082576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_324
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 324
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be37e5fabc7d4840a8232185c435dbd
+      internalID: 224248486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_325
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ccd6061e3ec1a44a4392ff7e3e7abc
+      internalID: -911762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_326
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 326
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d9a6db22bbd847aa74e9203272b58
+      internalID: 877511431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_327
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 326
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee72f9cac9ccb946bb7ee179f0e2858
+      internalID: -22993289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_328
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 325
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d72cda721a4c84aa8026aed352d044
+      internalID: -211411166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_329
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 306
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7410024f428794b888e107ba8deeda
+      internalID: -1920306571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_330
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 303
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfef85fa2f5baa4aae4f22dae37ea2d
+      internalID: -914595239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_331
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 304
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40882992800e56f4081d2bde184ff756
+      internalID: -1170389091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_332
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 305
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0defe5a86e717e544ad600f799fe7bf1
+      internalID: 1452363787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_333
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 303
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fc2792358c684e9113b58da04d378
+      internalID: 1032225580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_334
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa612b0c387364a9fcdee77ef03add
+      internalID: -551618776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_335
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 305
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef40a25f8dba64fb60125a144afd01
+      internalID: -39491925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_336
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 305
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1867b70723d9abd40bc40d5150817bde
+      internalID: -1927907166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_337
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 280
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fcd4d2021c183478c3d9c1c66e536a
+      internalID: 58705104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_338
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 283
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ce42073d33e8408843ddf11848852
+      internalID: 1825096922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_339
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 285
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8a2ec8de557b4caddfdfd0e7fe9a2
+      internalID: 1002011237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_340
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 283
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c02280e45b604aabede86f6dbf929
+      internalID: 990544774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_341
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 283
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed104b679bb6e4da48b436d5b65260
+      internalID: -245797646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_342
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 284
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a07bf2135d92b4c818b6855a97f762
+      internalID: 233993383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_343
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 384
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d825a9c2d9e34caaa7ee6f5c13d6e
+      internalID: 998968166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET BETA_344
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 384
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcb272a1196d9c4d9adfcc867b25856
+      internalID: 543919983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +7359,352 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TILESET BETA_24: 1872736537
+      TILESET BETA_225: 1812683709
+      TILESET BETA_226: 36704394
+      TILESET BETA_136: 1031706272
+      TILESET BETA_227: -705848610
+      TILESET BETA_318: 449104609
+      TILESET BETA_215: -176955962
+      TILESET BETA_218: 233382997
+      TILESET BETA_106: 550195291
+      TILESET BETA_332: 1452363787
+      TILESET BETA_59: -569853845
+      TILESET BETA_54: 1199952411
+      TILESET BETA_183: -1845610293
+      TILESET BETA_230: 1622890493
+      TILESET BETA_9: -582122367
+      TILESET BETA_79: -840966365
+      TILESET BETA_310: 1070961995
+      TILESET BETA_249: 1741774908
+      TILESET BETA_116: 197595335
+      TILESET BETA_171: -29254720
+      TILESET BETA_154: -1210382648
+      TILESET BETA_312: 149749912
+      TILESET BETA_197: -989145320
+      TILESET BETA_195: 928402936
+      TILESET BETA_287: 1831943804
+      TILESET BETA_150: -431295854
+      TILESET BETA_49: 578409037
+      TILESET BETA_189: 2102848236
+      TILESET BETA_170: 794362763
+      TILESET BETA_133: -438603568
+      TILESET BETA_15: -459894214
+      TILESET BETA_96: -1325811274
+      TILESET BETA_141: 1443078851
+      TILESET BETA_317: -401885550
+      TILESET BETA_75: 667622904
+      TILESET BETA_295: 1641039517
+      TILESET BETA_21: -1858791771
+      TILESET BETA_306: 1852352560
+      TILESET BETA_324: 224248486
+      TILESET BETA_95: 1494002007
+      TILESET BETA_16: -772296373
+      TILESET BETA_211: -83618248
+      TILESET BETA_166: 946771790
+      TILESET BETA_39: -1515083316
+      TILESET BETA_87: -1334812514
+      TILESET BETA_187: 681290267
+      TILESET BETA_4: 1617864215
+      TILESET BETA_321: 676622540
+      TILESET BETA_213: -1730448396
+      TILESET BETA_319: -326011933
+      TILESET BETA_41: 669310086
+      TILESET BETA_235: -2060214755
+      TILESET BETA_36: -1997304695
+      TILESET BETA_86: -391439464
+      TILESET BETA_201: -2123074703
+      TILESET BETA_155: 590519814
+      TILESET BETA_255: -1280089658
+      TILESET BETA_245: -225346649
+      TILESET BETA_92: -1816557245
+      TILESET BETA_105: -1094857937
+      TILESET BETA_257: -507290036
+      TILESET BETA_169: 1784985291
+      TILESET BETA_282: -2011464212
+      TILESET BETA_237: -396030677
+      TILESET BETA_115: 654080989
+      TILESET BETA_55: -1191212114
+      TILESET BETA_280: -2028414434
+      TILESET BETA_128: -1005670792
+      TILESET BETA_250: -522037177
+      TILESET BETA_327: -22993289
+      TILESET BETA_63: -219056816
+      TILESET BETA_241: -1743484406
+      TILESET BETA_160: 2006928938
+      TILESET BETA_138: -964405812
+      TILESET BETA_151: -780930935
+      TILESET BETA_180: 1897174616
+      TILESET BETA_1: 774988213
+      TILESET BETA_323: -1025082576
+      TILESET BETA_139: 983038208
+      TILESET BETA_224: -164510206
+      TILESET BETA_207: -1284714366
+      TILESET BETA_145: -559409652
+      TILESET BETA_5: 1650779282
+      TILESET BETA_25: -289344261
+      TILESET BETA_89: 123876478
+      TILESET BETA_14: -41371129
+      TILESET BETA_113: -215916592
+      TILESET BETA_251: 735692712
+      TILESET BETA_77: 2120143721
+      TILESET BETA_137: -814100486
+      TILESET BETA_148: -223545422
+      TILESET BETA_281: -290441025
+      TILESET BETA_42: -860386721
+      TILESET BETA_144: -876381751
+      TILESET BETA_217: 1720084583
+      TILESET BETA_44: 1965299289
+      TILESET BETA_66: 368044036
+      TILESET BETA_188: 1657541751
+      TILESET BETA_129: -194901844
+      TILESET BETA_32: 72733932
+      TILESET BETA_84: 1425368777
+      TILESET BETA_120: 1015441296
+      TILESET BETA_43: -24141224
+      TILESET BETA_131: -908787471
+      TILESET BETA_34: -654005735
+      TILESET BETA_279: 1097924759
+      TILESET BETA_342: 233993383
+      TILESET BETA_143: 1235739411
+      TILESET BETA_261: 1349240611
+      TILESET BETA_190: -815158115
+      TILESET BETA_338: 1825096922
+      TILESET BETA_70: 11939488
+      TILESET BETA_69: 1813678236
+      TILESET BETA_109: 1277097282
+      TILESET BETA_78: 596698099
+      TILESET BETA_208: 577553698
+      TILESET BETA_125: 1604598816
+      TILESET BETA_167: -1836912825
+      TILESET BETA_339: 1002011237
+      TILESET BETA_156: -977386187
+      TILESET BETA_18: -112463698
+      TILESET BETA_3: 957460357
+      TILESET BETA_17: -1725893428
+      TILESET BETA_76: 1930609756
+      TILESET BETA_221: 1688636986
+      TILESET BETA_267: 94988122
+      TILESET BETA_67: -34697852
+      TILESET BETA_118: 194505244
+      TILESET BETA_173: 1503577569
+      TILESET BETA_297: 680168953
+      TILESET BETA_142: 484494663
+      TILESET BETA_102: 1851268896
+      TILESET BETA_47: -1977628694
+      TILESET BETA_276: 1112953168
+      TILESET BETA_191: 1975215095
+      TILESET BETA_293: 602301113
+      TILESET BETA_314: -1071646094
+      TILESET BETA_7: 1094920049
+      TILESET BETA_157: 1028491852
+      TILESET BETA_110: -1593168390
+      TILESET BETA_107: 643034628
+      TILESET BETA_52: -1952787374
+      TILESET BETA_305: 2098537104
+      TILESET BETA_163: 1658611957
+      TILESET BETA_117: -994194877
+      TILESET BETA_161: -36931164
+      TILESET BETA_240: 822465393
+      TILESET BETA_51: -1628505212
+      TILESET BETA_83: -124670144
+      TILESET BETA_175: -202873284
+      TILESET BETA_303: -442445716
+      TILESET BETA_308: -1446809059
+      TILESET BETA_20: 1856964558
+      TILESET BETA_274: 1737081288
+      TILESET BETA_231: 1314653748
+      TILESET BETA_177: -393679164
+      TILESET BETA_253: -2005904106
+      TILESET BETA_91: -77009220
+      TILESET BETA_269: 215791306
+      TILESET BETA_123: -2125601016
+      TILESET BETA_275: 1491940254
+      TILESET BETA_159: -1122124930
+      TILESET BETA_0: 1840141253
+      TILESET BETA_80: -322002504
+      TILESET BETA_341: -245797646
+      TILESET BETA_56: -133097786
+      TILESET BETA_53: -1604924523
+      TILESET BETA_68: -141788633
+      TILESET BETA_101: -484058241
+      TILESET BETA_315: 1064297560
+      TILESET BETA_186: 1217321807
+      TILESET BETA_244: -55933635
+      TILESET BETA_209: 1367099874
+      TILESET BETA_27: -932729695
+      TILESET BETA_263: -1108056902
+      TILESET BETA_29: -495086819
+      TILESET BETA_289: -2140072773
+      TILESET BETA_40: 110047647
+      TILESET BETA_309: -529027111
+      TILESET BETA_322: -534127106
+      TILESET BETA_61: -1752689477
+      TILESET BETA_219: 1889697058
+      TILESET BETA_50: -2054560674
+      TILESET BETA_22: -1737211394
+      TILESET BETA_320: -2052350791
+      TILESET BETA_147: -214760128
+      TILESET BETA_333: 1032225580
+      TILESET BETA_99: 777507428
+      TILESET BETA_184: 581115986
+      TILESET BETA_71: 390322188
+      TILESET BETA_210: 738245903
+      TILESET BETA_11: -1479326322
+      TILESET BETA_329: -1920306571
+      TILESET BETA_228: -1990497984
+      TILESET BETA_112: -366466983
+      TILESET BETA_26: 594621695
+      TILESET BETA_299: -361599855
+      TILESET BETA_85: -788927120
+      TILESET BETA_172: -1258939883
+      TILESET BETA_12: -728143813
+      TILESET BETA_37: -1376215141
+      TILESET BETA_178: 491193707
+      TILESET BETA_337: 58705104
+      TILESET BETA_196: -777854634
+      TILESET BETA_192: 468931624
+      TILESET BETA_153: 1789414874
+      TILESET BETA_335: -39491925
+      TILESET BETA_108: -1440842136
+      TILESET BETA_135: -1459510763
+      TILESET BETA_265: 413367423
+      TILESET BETA_93: -220310131
+      TILESET BETA_114: -654279150
+      TILESET BETA_232: 1205433938
+      TILESET BETA_242: 1003297561
+      TILESET BETA_290: 586577938
+      TILESET BETA_234: -1342063884
+      TILESET BETA_73: 1684512985
+      TILESET BETA_247: 1669075454
+      TILESET BETA_288: 287403561
+      TILESET BETA_168: 253348932
+      TILESET BETA_243: 1991316051
+      TILESET BETA_100: -2134120838
+      TILESET BETA_62: -1048936789
+      TILESET BETA_206: 1277733928
+      TILESET BETA_343: 998968166
+      TILESET BETA_239: 14805459
+      TILESET BETA_97: -572295531
+      TILESET BETA_72: -882848807
+      TILESET BETA_316: -1934777686
+      TILESET BETA_132: 1016873365
+      TILESET BETA_88: -1114475651
+      TILESET BETA_260: -884133558
+      TILESET BETA_81: 579834458
+      TILESET BETA_311: 1253590286
+      TILESET BETA_286: 58950777
+      TILESET BETA_28: -1620254655
+      TILESET BETA_336: -1927907166
+      TILESET BETA_256: 448173593
+      TILESET BETA_185: -255141445
+      TILESET BETA_292: 893990925
+      TILESET BETA_8: -1753846374
+      TILESET BETA_277: -1578361288
+      TILESET BETA_298: 1356946915
+      TILESET BETA_331: -1170389091
+      TILESET BETA_82: -708340212
+      TILESET BETA_60: -1084194870
+      TILESET BETA_278: 2048505862
+      TILESET BETA_205: -203815905
+      TILESET BETA_246: -1450918356
+      TILESET BETA_302: -301494041
+      TILESET BETA_252: 1961832592
+      TILESET BETA_233: -297136077
+      TILESET BETA_46: 1852470302
+      TILESET BETA_198: 1678611532
+      TILESET BETA_296: -685100725
+      TILESET BETA_122: 555942756
+      TILESET BETA_212: -1109904577
+      TILESET BETA_271: 1401575671
+      TILESET BETA_38: 943556248
+      TILESET BETA_176: 1971012354
+      TILESET BETA_74: 912958727
+      TILESET BETA_127: 1557741062
+      TILESET BETA_285: -1761337602
+      TILESET BETA_31: 1767656158
+      TILESET BETA_158: 1919294751
+      TILESET BETA_236: -1014227224
+      TILESET BETA_181: -198795250
+      TILESET BETA_90: -1407063701
+      TILESET BETA_328: -211411166
+      TILESET BETA_264: 1759273661
+      TILESET BETA_258: 118874815
+      TILESET BETA_291: -1570919690
+      TILESET BETA_33: -301313001
+      TILESET BETA_45: -741109149
+      TILESET BETA_182: -989690604
+      TILESET BETA_334: -551618776
+      TILESET BETA_121: 375046859
+      TILESET BETA_146: -1982938751
+      TILESET BETA_262: -1730286444
+      TILESET BETA_200: 1259377325
+      TILESET BETA_119: 2020218595
+      TILESET BETA_164: 1201532576
+      TILESET BETA_130: 961425805
+      TILESET BETA_140: -1239888513
+      TILESET BETA_254: -1808161006
+      TILESET BETA_152: -1994747011
+      TILESET BETA_57: -2059394585
+      TILESET BETA_223: 918904255
+      TILESET BETA_284: 1891636157
+      TILESET BETA_340: 990544774
+      TILESET BETA_124: -1818343739
+      TILESET BETA_203: -1254976780
+      TILESET BETA_94: 1955304121
+      TILESET BETA_272: 1342517712
+      TILESET BETA_58: 112851285
+      TILESET BETA_13: -45442452
+      TILESET BETA_270: -401059522
+      TILESET BETA_134: 1510755372
+      TILESET BETA_126: -1210605095
+      TILESET BETA_273: -906576482
+      TILESET BETA_304: 1723919490
+      TILESET BETA_222: -65647428
+      TILESET BETA_307: -359906284
+      TILESET BETA_10: -1674474291
+      TILESET BETA_98: -93051526
+      TILESET BETA_202: -1658062109
+      TILESET BETA_266: 697715735
+      TILESET BETA_268: -97891395
+      TILESET BETA_65: 133971029
+      TILESET BETA_283: 683812234
+      TILESET BETA_330: -914595239
+      TILESET BETA_220: 46214475
+      TILESET BETA_300: -1162075389
+      TILESET BETA_204: 1638107784
+      TILESET BETA_48: 651370611
+      TILESET BETA_103: 1886955490
+      TILESET BETA_301: -1378609285
+      TILESET BETA_179: 1223391262
+      TILESET BETA_64: -1449903975
+      TILESET BETA_165: 1235870563
+      TILESET BETA_344: 543919983
+      TILESET BETA_194: 572167436
+      TILESET BETA_214: 2027423428
+      TILESET BETA_2: -1468303642
+      TILESET BETA_216: -470983568
+      TILESET BETA_259: -276692264
+      TILESET BETA_248: -407414286
+      TILESET BETA_193: 289597924
+      TILESET BETA_199: -61468243
+      TILESET BETA_229: 798708894
+      TILESET BETA_326: 877511431
+      TILESET BETA_174: 1328033512
+      TILESET BETA_149: -1216744784
+      TILESET BETA_30: 1401630784
+      TILESET BETA_35: 1425510673
+      TILESET BETA_294: 1084892823
+      TILESET BETA_6: -1392163145
+      TILESET BETA_23: -521904339
+      TILESET BETA_162: -369336746
+      TILESET BETA_238: -1936565497
+      TILESET BETA_104: -2042105088
+      TILESET BETA_19: 1366047274
+      TILESET BETA_325: -911762107
+      TILESET BETA_313: 2116949641
+      TILESET BETA_111: -346690991
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
