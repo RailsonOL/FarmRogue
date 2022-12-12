@@ -9,6 +9,7 @@ public abstract class Mover : Warrior
     private RaycastHit2D hit;
     protected float ySpeed = 0.75f;
     protected float xSpeed = 1.00f;
+    public float speedMultiplier = 1.0f;
 
     protected virtual void Start()
     {
@@ -19,6 +20,7 @@ public abstract class Mover : Warrior
     {
         //reset moveDelta
         moveDelta = new Vector3(input.x * xSpeed, input.y * ySpeed, 0);
+        moveDelta *= speedMultiplier;
 
         //swap sprite direction
         if (moveDelta.x > 0)

@@ -14,7 +14,7 @@ public class WeaponController : Collidable
 
     // Swing
     private Animator anim;
-    private float cooldown = 0.5f;
+    public float cooldown = 0.5f;
     private float lastSwing;
 
     protected override void Start()
@@ -30,7 +30,7 @@ public class WeaponController : Collidable
     protected override void Update()
     {
         base.Update();
-
+        //Debug.Log(Time.time - lastSwing > cooldown ? "Ready" : "Not Ready");
         if (Input.GetButtonDown("Fire1") && Time.time - lastSwing > cooldown)
         {
             lastSwing = Time.time;
@@ -46,7 +46,7 @@ public class WeaponController : Collidable
         {
             if(coll.name == "Player") return;
 
-            Debug.Log("Hit enemy");
+            //Debug.Log("Hit enemy: " + damagePoint);
 
             Damage dmg = new Damage()
             {

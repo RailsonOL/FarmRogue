@@ -20,7 +20,7 @@ public class Warrior : MonoBehaviour
     
     protected virtual void ReceiveDamage(Damage dmg)
     {
-        if(Time.time + lastImmune > imuneTime)
+        if(Time.time - lastImmune > imuneTime)
         {
             lastImmune = Time.time;
             hitpoint -= dmg.damageAmount;
