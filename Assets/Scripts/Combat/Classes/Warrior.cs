@@ -9,7 +9,7 @@ public class Warrior : MonoBehaviour
     public int maxHitpoint = 10;
     public float pushRecoverySpeed = 0.2f;
 
-    //Imnutability
+    //Imnutability 
     public float imuneTime = 1.0f;
     private float lastImmune;
 

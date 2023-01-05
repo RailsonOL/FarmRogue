@@ -7,14 +7,9 @@ public abstract class Mover : Warrior
     private BoxCollider2D boxCollider;
     private Vector3 moveDelta;
     private RaycastHit2D hit;
-<<<<<<< HEAD
-    protected float ySpeed = 1.75f;
-    protected float xSpeed = 3.00f;
-=======
     protected float ySpeed = 0.75f;
     protected float xSpeed = 1.00f;
     public float speedMultiplier = 1.0f;
->>>>>>> 528a6d79a267296baccef5a2899126942687caed
 
     protected virtual void Start()
     {
