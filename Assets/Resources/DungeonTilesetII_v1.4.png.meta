@@ -3528,7 +3528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DungeonTilesetII_v1.4_163
+      name: DungeonTilesetII_Life_Potion
       rect:
         serializedVersion: 2
         x: 291
@@ -4166,7 +4166,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5216,7 +5216,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5237,7 +5237,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5258,7 +5258,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5279,7 +5279,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5300,7 +5300,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5321,7 +5321,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5342,7 +5342,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5363,7 +5363,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5663,13 +5663,13 @@ TextureImporter:
       DungeonTilesetII_v1.4_81: 430013429
       DungeonTilesetII_v1.4_125: -11092379
       DungeonTilesetII_v1.4_231: 1928745979
-      DungeonTilesetII_v1.4_57: -1396753938
       DungeonTilesetII_v1.4_215: 1172902479
       DungeonTilesetII_v1.4_156: -1050982538
       DungeonTilesetII_v1.4_101: -1361369139
       DungeonTilesetII_v1.4_235: -1314412267
       DungeonTilesetII_v1.4_236: 712894580
       DungeonTilesetII_v1.4_120: -1472124102
+      DungeonTilesetII_v1.4_57: -1396753938
       DungeonTilesetII_v1.4_31: 290167372
       DungeonTilesetII_v1.4_169: -383537504
       DungeonTilesetII_v1.4_249: -1648117565
@@ -5724,10 +5724,9 @@ TextureImporter:
       DungeonTilesetII_v1.4_129: -1926849926
       DungeonTilesetII_v1.4_42: 523423625
       DungeonTilesetII_v1.4_114: 699409946
-      DungeonTilesetII_v1.4_163: -2116384050
       DungeonTilesetII_v1.4_211: -1477253577
-      DungeonTilesetII_v1.4_36: 982507412
       DungeonTilesetII_v1.4_220: 998906744
+      DungeonTilesetII_v1.4_36: 982507412
       DungeonTilesetII_v1.4_49: -566726466
       DungeonTilesetII_v1.4_162: 1197560954
       DungeonTilesetII_v1.4_84: 1375671490
@@ -5748,6 +5747,7 @@ TextureImporter:
       DungeonTilesetII_v1.4_136: -1635638156
       DungeonTilesetII_v1.4_87: 1271869950
       DungeonTilesetII_v1.4_234: 1273013574
+      DungeonTilesetII_Life_Potion: -2116384050
       DungeonTilesetII_v1.4_3: -926649598
       DungeonTilesetII_v1.4_71: -1203143518
       DungeonTilesetII_v1.4_142: 1134099230
